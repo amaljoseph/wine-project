@@ -34,6 +34,7 @@ shown below.
 The ​ confusion matrix​ is constructed to find out the accuracy of prediction. The diagonal
 elements are the correctly predicted outputs. The other cell elements are the incorrectly
 predicted outputs.
+
 ![alt text](images/5.png)
 
 We are using​ Matplotlib.pyplot ​ python library to visualise the results. We are using a mesh
