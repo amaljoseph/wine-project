@@ -44,3 +44,14 @@ The green dot in blue region is an ​ outlier​ .
 
 ![alt text](images/6.jpg)
 
+## Requirements
+1. [Python 2.7.x](https://www.python.org/downloads/)
+
+2. [Matplotlib](https://matplotlib.org/) `python -m pip install -U matplotlib`
+
+3. [Numpy](https://www.numpy.org/) `sudo apt-get install python-numpy`
+
+4. [Pandas](https://pandas.pydata.org/) `python -m pip install --upgrade pandas`
+
+## How to run?
+To run the program, in terminal type `python wine-project.py`
