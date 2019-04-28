@@ -13,28 +13,28 @@ StandardScaler ​ is used to normalize the data. Feature Scaling is done for th
 converge faster.
 
 
-IMAGE 2 - after
+![alt text](images/1.png)
 
 We can’t visualise the results with 13 attributes. So we have to apply dimensionality
 reduction techniques such as Principal Component Analysis (PCA) or Linear Discriminant
 Analysis (LDA).We have used ​ PCA (Principal Component Analysis) ​ for dimensionality
 reduction.
-IMAGE - 13 attribute
+![alt text](images/2.png)
 
 When we apply PCA, we get two principal components with maximum variance. Only the
 attributes with larger variance will contribute better for the results. This is understood by
 observing the ​ explained variance matrix.
-IMAGE - explained variance vector
+![alt text](images/3.png)
 
 The ​ PCA algorithm reduces the 13 attribute dataset into 2 principal components​ as
 shown below.
 
-IMAGE _ 2PC
+![alt text](images/4.png)
 
 The ​ confusion matrix​ is constructed to find out the accuracy of prediction. The diagonal
 elements are the correctly predicted outputs. The other cell elements are the incorrectly
 predicted outputs.
-IAMGE - CM
+![alt text](images/5.png)
 
 We are using​ Matplotlib.pyplot ​ python library to visualise the results. We are using a mesh
 grid to plot the results. The training set and test set data is visualised. There are 3 prediction
