@@ -1,5 +1,4 @@
 # Wine Data Set - A Case Study using Logistic Regression and PCA
-GUIDE: Dr. M Sudheep Elayidom
 
 These data are the results of a chemical analysis of wines grown in the same region in Italy
 but derived from three different cultivars. The analysis determined the quantities of 13
