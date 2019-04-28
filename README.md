@@ -12,7 +12,7 @@ reduction techniques.
 StandardScaler ​ is used to normalize the data. Feature Scaling is done for the algorithm to
 converge faster.
 
-IMAGE 1 - before
+
 IMAGE 2 - after
 
 We can’t visualise the results with 13 attributes. So we have to apply dimensionality
@@ -41,5 +41,5 @@ grid to plot the results. The training set and test set data is visualised. Ther
 regions.
 The green dot in blue region is an ​ outlier​ .
 
-IAMGE - predction visualisation
+![alt text](images/6.jpg)
 
